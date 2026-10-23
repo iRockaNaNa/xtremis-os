@@ -58,12 +58,14 @@ Launcher's own definitions (see ASSETS.md); nothing is reinvented.
   Phase 3 switcher. Settings follows the framework palette (verify
   on device)
 
-### 5. Sounds — TO CREATE
-- Nothing exists yet (ASSETS.md gap). WP10's actual sounds are
-  Microsoft IP and can't ship; the pack gets original WP-style sounds
-  made from scratch (simple synthesized tones): lock, unlock,
-  keyboard tap, notification, alert, camera
-- Target feel: short, soft, percussive — matched against the Elite x3
+### 5. Sounds — DONE 2026-10-23 (two sets, see sounds/README.md)
+- Authentic library (owner-supplied): the Lumia/WP stock tones —
+  43 ringtones, 15 notifications, 2 alarms, WMA→OGG converted.
+  Defaults: Microsoft Ringtone / Lumia Message / Lumia Clock.
+  Personal builds only (Microsoft IP)
+- Original synthesized set: lock, unlock, keypress family, tick,
+  camera, plus notification/alert — covers UI sounds in all builds
+  and is the public-release sound set
 
 ### 6. System glyphs — TO BUILD
 - QS-tile and Settings glyphs in the launcher's Metro style (white

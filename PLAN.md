@@ -18,8 +18,9 @@ has been verified on the real phone.
 - [x] Build machine prepared (WSL2 Ubuntu, on its own drive) and a
       completely stock LineageOS build completed and verified
       2026-10-23 — the known-good baseline.
-- [ ] Theme asset inventory: accents, icons, fonts, sounds and boot
-      animation material collected for the theme work.
+- [x] Theme asset inventory: accents, icons, fonts, sounds and boot
+      animation material collected for the theme work (see ASSETS.md —
+      including the gaps the ROM still has to fill).
 - [ ] HP Elite x3 in hand as the visual reference device.
 
 ## Phase 1 — Baseline on hardware

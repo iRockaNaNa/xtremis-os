@@ -6,7 +6,10 @@ Two complementary sets — together they cover everything:
 
 ## 1. Authentic tone library — `authentic/` (owner-supplied)
 The Lumia / Windows Phone stock tones, supplied by the project owner
-as WMA and converted to OGG for Android: **43 ringtones, 15
+as WMA and converted to OGG for Android. Provenance: the community
+share linked from Microsoft's own Q&A — "Windows 10 Mobile System
+Sounds for download" (learn.microsoft.com/answers/questions/2798536),
+posted for personal use: **43 ringtones, 15
 notifications, 2 alarms** — including Alert-01…10, the Lumia
 Calendar/Clock/Email/Message/Voicemail set, and the Microsoft
 Ringtone.

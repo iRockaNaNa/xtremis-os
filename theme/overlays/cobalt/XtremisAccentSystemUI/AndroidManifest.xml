@@ -1,0 +1,7 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.nanatech.xtremis.accent.cobalt.systemui">
+    <overlay android:targetPackage="com.android.systemui" android:priority="10"
+        android:isStatic="true" />
+    <application android:label="Xtremis Accent Cobalt (SystemUI)"
+        android:hasCode="false" />
+</manifest>

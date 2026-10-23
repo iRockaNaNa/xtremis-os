@@ -48,13 +48,15 @@ Launcher's own definitions (see ASSETS.md); nothing is reinvented.
   use; a public MK release ships open-licensed WP-style photography
   unless rights are cleared
 
-### 4. Accent theme — SCOPED
+### 4. Accent theme — OVERLAYS BUILT 2026-10-23
 - Full palette captured (20 WP accents, ASSETS.md); cobalt #0050EF is
   the default
-- Pack v1: cobalt baked in — framework accent colors, pure-black dark
-  theme (#000000), SystemUI quick-settings tint, Settings accent
-- Per-accent RRO overlay structure prepared so Phase 3's switcher can
-  light up all 20 without repackaging
+- Built in `theme/`: a generator stamps out framework + SystemUI RRO
+  overlay packages for any accent (full tonal scales from the accent,
+  background_dark pinned to pure black #000000); cobalt's packages
+  are generated and ready, the other 19 generate on demand for the
+  Phase 3 switcher. Settings follows the framework palette (verify
+  on device)
 
 ### 5. Sounds — TO CREATE
 - Nothing exists yet (ASSETS.md gap). WP10's actual sounds are

@@ -67,11 +67,12 @@ Launcher's own definitions (see ASSETS.md); nothing is reinvented.
   camera, plus notification/alert — covers UI sounds in all builds
   and is the public-release sound set
 
-### 6. System glyphs — TO BUILD
-- QS-tile and Settings glyphs in the launcher's Metro style (white
-  glyph, per ASSETS.md render specs): the 7 Action Center glyphs
+### 6. System glyphs — BUILT 2026-10-23
+- 15 Android vector drawables in `glyphs/` (thin-stroke 48-grid,
+  W10M outline style, tint at use site): the 7 Action Center glyphs
   (flashlight, bluetooth, wi-fi, DND, airplane, rotation, brightness)
-  first, then the Settings set
+  + 8 Settings category glyphs from the reference screenshot. v1
+  geometry; fidelity pass against the Elite x3 during device testing
 
 ### 7. Built-in suite apps
 - Metro 10 Launcher preinstalled as the default home

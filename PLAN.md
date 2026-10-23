@@ -33,9 +33,13 @@ has been verified on the real phone.
 ## Phase 2 — Theme pack
 
 - [ ] Flashable theme package: fonts, boot animation, wallpapers,
-      system sounds, icon pack, accent colors.
+      system sounds, icon pack, accent colors. (Detailed plan:
+      THEME-PACK.md — boot animation asset built, fonts decided.)
 - [ ] Metro 10 Launcher as default home; Metro 10 Messaging
       preinstalled.
+- [ ] Live wallpaper support: see-through Start in the launcher plus
+      the bundled PhotoFlow live wallpaper (modernization item,
+      THEME-PACK.md section 8).
 - [ ] Verified on the phone → **MK1**.
 
 ## Phase 3 — Full ROM
@@ -43,6 +47,9 @@ has been verified on the real phone.
 - [ ] Framework, SystemUI and Settings restyled to Windows 10 Mobile.
 - [ ] Refresh-rate controls (60 / 90 / 120 Hz) added to Display
       settings — the base ships none, so Xtremis builds them.
+- [ ] Custom kernel: **Another Really Cool Kernel — the ARC Kernel** — Xtremis's
+      own kernel, named in the build identity (About > Kernel version),
+      paired with the arc-reactor boot animation.
 - [ ] WP10 lock screen and navigation bar built into SystemUI.
 - [ ] Metro 10 suite shipped as system apps.
 - [ ] Verified on the phone → next MK release.

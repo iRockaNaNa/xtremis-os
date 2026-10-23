@@ -16,6 +16,8 @@ app suite as built-in system apps.
   Mobile, with its accent-color system, typography and sounds
 - Metro 10 Messaging built in; a matching dialer to follow
 - The Razer Chroma RGB logo stays fully working
+- Arc-reactor boot animation, and a custom kernel underneath it all:
+  **Another Really Cool Kernel — the ARC Kernel**
 
 ## Builds
 

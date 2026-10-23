@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Xtremis OS — Latin font family definitions (a Nanatech Creative
+  Solutions project). MERGE these families into the baseline's
+  /system/etc/fonts.xml at packaging time — do not ship this file
+  standalone: the baseline fonts.xml carries the fallback chains for
+  other scripts and emoji, which must be preserved.
+
+  Typeface: Noto Sans (Google), SIL Open Font License 1.1.
+  Weight map mirrors Windows 10 Mobile usage: Light for large
+  headings, Regular for body, Medium/SemiBold for emphasis.
+-->
+<family name="sans-serif">
+    <font weight="300" style="normal">NotoSans-Light.ttf</font>
+    <font weight="400" style="normal">NotoSans-Regular.ttf</font>
+    <font weight="400" style="italic">NotoSans-Italic.ttf</font>
+    <font weight="500" style="normal">NotoSans-Medium.ttf</font>
+    <font weight="600" style="normal">NotoSans-SemiBold.ttf</font>
+    <font weight="700" style="normal">NotoSans-Bold.ttf</font>
+    <font weight="700" style="italic">NotoSans-BoldItalic.ttf</font>
+    <font weight="900" style="normal">NotoSans-Black.ttf</font>
+</family>
+<family name="sans-serif-light">
+    <font weight="300" style="normal">NotoSans-Light.ttf</font>
+    <font weight="400" style="normal">NotoSans-Regular.ttf</font>
+</family>
+<family name="sans-serif-medium">
+    <font weight="500" style="normal">NotoSans-Medium.ttf</font>
+    <font weight="700" style="normal">NotoSans-Bold.ttf</font>
+</family>
+<alias name="sans-serif-black" to="sans-serif" weight="900"/>
+<alias name="arial" to="sans-serif"/>
+<alias name="helvetica" to="sans-serif"/>
+<alias name="tahoma" to="sans-serif"/>
+<alias name="verdana" to="sans-serif"/>

@@ -80,6 +80,12 @@ Segoe → `FontFamily.Default`, Roboto → `FontFamily.SansSerif`, Monospace
 real rounded font such as Quicksand/Nunito). The chosen family is applied
 to every Material 3 text style (`Typography.withFontFamily`).
 
+**DECISION 2026-10-23:** public ROM releases ship free open-source
+Google Fonts (Noto Sans family — the closest open match to Segoe UI's
+metrics and feel). The genuine Windows default font is supplied
+separately for reference and personal builds only; it is Microsoft
+IP and is never redistributed in an MK release.
+
 **GAP (partial):** a real bundled Segoe UI (or Segoe-like) typeface.
 `res/` contains no `font/` directory. The ROM needs the actual font
 files to make system-wide type authentic; the launcher's own code
@@ -203,7 +209,10 @@ Out-of-box state (`MainActivity.kt`, `data/LauncherRepository.kt`,
 
 Theme assets Xtremis needs that the launcher does not have:
 
-- **GAP — Boot animation frames.** Nothing exists: no Tiles-style boot
+- **Boot animation — BUILT 2026-10-23.** Generated W10M-style animation
+  (logo fade-in + rotating dot chase, 720×1280 @ 30 fps): generator and
+  notes in `bootanimation/`; the zip itself is binary and lives outside
+  git. Original gap note: no Tiles-style boot
   animation, no boot logo beyond the seed in the launcher's app-icon
   vector (Section 3).
 - **GAP — System sounds.** Ringtones, notification sounds, and UI

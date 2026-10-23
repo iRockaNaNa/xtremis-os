@@ -40,6 +40,8 @@ has been verified on the real phone.
 ## Phase 3 — Full ROM
 
 - [ ] Framework, SystemUI and Settings restyled to Windows 10 Mobile.
+- [ ] Refresh-rate controls (60 / 90 / 120 Hz) added to Display
+      settings — the base ships none, so Xtremis builds them.
 - [ ] WP10 lock screen and navigation bar built into SystemUI.
 - [ ] Metro 10 suite shipped as system apps.
 - [ ] Verified on the phone → next MK release.

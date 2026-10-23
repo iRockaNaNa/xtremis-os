@@ -27,8 +27,9 @@ A Nanatech Creative Solutions project.
   effects, a color picker, suspend on screen-off, and restore on boot.
   The Xtremis Settings redesign re-skins these controls — it must not
   remove them.
-- **120 Hz display.** The panel runs at 120 Hz; the base ships no
-  refresh-rate controls, so none need preserving.
+- **120 Hz display.** The panel runs at 120 Hz, but the base ships no
+  refresh-rate controls at all — so Xtremis adds its own (PLAN.md,
+  Phase 3).
 - **Unlockable bootloader** with factory images available (below),
   which is what makes the recovery path in PLAN.md possible.
 

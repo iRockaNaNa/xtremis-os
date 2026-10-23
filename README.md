@@ -30,6 +30,12 @@ The starting point is the **pre-MK stock baseline**: plain LineageOS
 [baseline-stock-22.2](https://github.com/iRockaNaNa/xtremis-os/releases/tag/baseline-stock-22.2).
 Every MK is compared against it.
 
+Binary project assets (fonts, sound library, wallpapers, boot
+animation zips, tones packs) live in the
+[assets-v1](https://github.com/iRockaNaNa/xtremis-os/releases/tag/assets-v1)
+release — the generators and docs in this repo rebuild or describe
+all of them.
+
 ## Reference
 
 Fidelity is judged against an HP Elite x3 running genuine Windows 10

@@ -23,6 +23,11 @@ Releases are numbered in the **MK series** — MK1, MK2, MK3… — and
 published as GitHub Releases. A build only earns its MK number once it
 has been verified running on the real phone.
 
+The starting point is the **pre-MK stock baseline**: plain LineageOS
+22.2, built and verified 2026-10-23, published as the pre-release
+[baseline-stock-22.2](https://github.com/iRockaNaNa/xtremis-os/releases/tag/baseline-stock-22.2).
+Every MK is compared against it.
+
 ## Reference
 
 Fidelity is judged against an HP Elite x3 running genuine Windows 10

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Xtremis OS boot animation generator — a Nanatech Creative Solutions project.
+"""Xtremis OS boot animation generator — a Nanatech Creative Studios project.
 
 Draws a Windows 10 Mobile-style boot animation: the four-pane window logo
 fades in on black (part0, plays once), then holds with the classic rotating

@@ -1,6 +1,6 @@
 # Xtremis OS — Theme Asset Inventory
 
-A Nanatech Creative Solutions project.
+A Nanatech Creative Studios project.
 
 What the Metro 10 Launcher already defines, collected in one place so the
 Xtremis OS ROM theme reuses exactly these values instead of reinventing

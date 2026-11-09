@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Arc-reactor boot animation for Xtremis OS — a Nanatech Creative Solutions project.
+"""Arc-reactor boot animation for Xtremis OS — a Nanatech Creative Studios project.
 
 The reactor powers up (ring sweeps in, coils light in sequence, the
 triangular core ignites) in part0, then breathes with a slow pulse in

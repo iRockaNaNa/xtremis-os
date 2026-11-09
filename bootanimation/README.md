@@ -1,6 +1,6 @@
 # Boot animation
 
-A Nanatech Creative Solutions project.
+A Nanatech Creative Studios project.
 
 Windows 10 Mobile-style boot animation for Xtremis OS: the four-pane
 window logo fades in on black, then holds with the classic rotating dot

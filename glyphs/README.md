@@ -1,6 +1,6 @@
 # System glyphs
 
-A Nanatech Creative Solutions project.
+A Nanatech Creative Studios project.
 
 Android vector drawables in the Windows 10 Mobile outline style —
 thin strokes (2.2 on a 48 grid), drawn from the reference Settings

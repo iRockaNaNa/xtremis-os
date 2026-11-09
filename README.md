@@ -1,6 +1,6 @@
 # Xtremis OS
 
-**A Nanatech Creative Solutions project.**
+**A Nanatech Creative Studios project.**
 
 Xtremis OS is a custom Android ROM for the **Razer Phone 2** (`aura`) that
 recreates the Windows 10 Mobile experience throughout the whole system —

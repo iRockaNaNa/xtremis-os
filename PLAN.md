@@ -1,6 +1,6 @@
 # Xtremis OS — Build Plan
 
-A Nanatech Creative Solutions project.
+A Nanatech Creative Studios project.
 Target: Razer Phone 2 (`aura`) · Base: LineageOS 22.2 · Reference: HP
 Elite x3 (Windows 10 Mobile 1709)
 

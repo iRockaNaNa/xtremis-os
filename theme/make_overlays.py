@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generate Xtremis accent RRO overlay packages — Nanatech Creative Solutions.
+"""Generate Xtremis accent RRO overlay packages — Nanatech Creative Studios.
 
 Stamps out framework + SystemUI runtime-resource-overlay sources for one
 accent from the WP palette (ASSETS.md). Cobalt is the shipped default;

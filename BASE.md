@@ -1,6 +1,6 @@
 # Xtremis OS — Base
 
-A Nanatech Creative Solutions project.
+A Nanatech Creative Studios project.
 
 ## The pin
 

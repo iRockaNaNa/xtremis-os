@@ -1,6 +1,6 @@
 # Xtremis OS — Phase 2: Theme Pack Plan
 
-A Nanatech Creative Solutions project.
+A Nanatech Creative Studios project.
 
 The theme pack is a flashable zip that turns the stock LineageOS 22.2
 baseline into Xtremis visually — and later merges into the ROM tree so

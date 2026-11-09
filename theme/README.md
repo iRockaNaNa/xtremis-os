@@ -1,6 +1,6 @@
 # Accent theme overlays
 
-A Nanatech Creative Solutions project.
+A Nanatech Creative Studios project.
 
 Runtime resource overlays (RRO) that carry the Windows Phone accent
 system into Android's framework and SystemUI.

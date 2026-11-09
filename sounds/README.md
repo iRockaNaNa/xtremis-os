@@ -1,6 +1,6 @@
 # Sounds
 
-A Nanatech Creative Solutions project.
+A Nanatech Creative Studios project.
 
 Two complementary sets — together they cover everything:
 

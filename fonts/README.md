@@ -1,6 +1,6 @@
 # Fonts
 
-A Nanatech Creative Solutions project.
+A Nanatech Creative Studios project.
 
 System typeface for Xtremis OS: **Noto Sans** (Google) — the free,
 open-license stand-in for Segoe UI (see ASSETS.md font decision). The
